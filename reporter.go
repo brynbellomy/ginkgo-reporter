@@ -1,4 +1,4 @@
-package loggomega
+package reporter
 
 import (
 	"fmt"
