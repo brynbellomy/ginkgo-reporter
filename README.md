@@ -1,8 +1,8 @@
 
 
-# gomega-reporter
+# ginkgo-reporter
 
-A test reporter for the Gomega testing framework.
+A test reporter for the Ginkgo testing framework.
 
 Use the following lines to initialize your test suite:
 
@@ -10,7 +10,7 @@ Use the following lines to initialize your test suite:
 package blah_test
 
 import (
-    "github.com/brynbellomy/gomega-reporter"
+    "github.com/brynbellomy/ginkgo-reporter"
     . "github.com/onsi/ginkgo"
     . "github.com/onsi/gomega"
 
